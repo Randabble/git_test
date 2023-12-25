@@ -1,0 +1,3 @@
+This is a random text file within the git_test folder.
+💪🏿🥳💪🏿🥳💪🏿🥳💪🏿🥳
+yaay!
